@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nandan K C
 ==================================================================================================================================
 
-Data scientist
+Geographic data scientist
 --------------
 
-Programming since 2023
+Demonstrated experience in geographic data analysis. Programming since 2023
 
 * 🌍  I'm based in Finland
 * ✉️  You can contact me at [kcnandan090@gmail.com](mailto:kcnandan090@gmail.com)
