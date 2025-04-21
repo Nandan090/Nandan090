@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data scientist
 --------------
 
-Learning programming for one year.
+Programming since 2023
 
 * 🌍  I'm based in Finland
 * ✉️  You can contact me at [kcnandan090@gmail.com](mailto:kcnandan090@gmail.com)
